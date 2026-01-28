@@ -1,4 +1,4 @@
-#Bank Marketing Response Prediction Using Classification Models
+Bank Marketing Response Prediction Using Classification Models
 
 1. Problem Description
 
