@@ -140,23 +140,8 @@ Lift analysis was used to assess how effectively models rank customers based on 
 
 ---
 
-## 10. Repository Structure
 
-Bank-Marketing-Response-Prediction-Using-Classification-Models/
-├── data/
-│ └── bank-full.csv
-├── notebooks/
-│ └── classification-models-bankMarketing.Rmd
-├── src/
-│ └── Assigment_1.R
-├── reports/
-│ └── Data_Mining_Assignment_1.pdf
-├── README.md
-└── .gitignore
-
----
-
-## 11. Files Included in This Repository
+## 10. Files Included in This Repository
 
 ### Required Files
 - `bank-full.csv` – Dataset used for analysis
@@ -172,7 +157,7 @@ Bank-Marketing-Response-Prediction-Using-Classification-Models/
 
 ---
 
-## 12. Conclusion
+## 11. Conclusion
 
 This project demonstrates the application of classification techniques to a real-world bank marketing dataset. Emphasis is placed on appropriate feature selection, handling of class imbalance, and evaluation using business-relevant metrics. The results highlight the importance of model interpretability and ranking performance in customer targeting problems.
 
